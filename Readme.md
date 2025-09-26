@@ -25,7 +25,7 @@ This project analyzes a dataset of student grades using Excel, Python, SQL, and 
 ## Visualizations
 
 ### Grade Distribution
-![Bar Chart showing grade categories](Graphs/Grade_Catagory_Distributionpng)
+![Bar Chart showing grade categories](Graphs/Grade_Catagory_Distribution.png)
 
 ### Performance Breakdown
 ![Pie Chart showing performance categories](Graphs/Pie_Chart.png)
