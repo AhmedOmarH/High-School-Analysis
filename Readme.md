@@ -30,6 +30,9 @@ This project analyzes a dataset of student grades using Excel, Python, SQL, and 
 ### Performance Breakdown
 ![Pie Chart showing performance categories](Graphs/Pie_Chart.png)
 
+### Histogram
+![Histogram showing performance categories](Graphs/Histogram.png)
+
 ## Tools Used
 
 - Microsoft Excel
@@ -44,4 +47,5 @@ The main files in this repository are:
 - `egypt_students_cleaned.xlsx`: The cleaned and anonymized dataset.
 - `Dashboard.pbix`: The Dashboard
 - The SQL queries used
+
 - `README.md`: This file.
